@@ -22,6 +22,8 @@ body > div {
 #navbar {
   padding: 2em;
   justify-content: space-evenly;
+  font-size: 30px;
+  font-weight: bold;
 }
 
 #main-section {
@@ -42,5 +44,10 @@ body > div {
 
 .blue {
   background-color: #275db3;
+  color: white;
+}
+
+.home {
+  background-color: black;
   color: white;
 }
